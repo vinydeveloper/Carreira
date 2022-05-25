@@ -1,3 +1,2 @@
-#  Um pouco sobre meus passos na tecnologia
-Minha transição de carreo
-
+#  Meus passos na tecnologia
+Um pouco sobre minha transiç de carreira.
